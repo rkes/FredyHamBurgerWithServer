@@ -4,7 +4,7 @@ import {bindActionCreators} from 'redux';
 import InfiniteGrid from 'react-infinite-grid';
 import {removeProduct,ProductReducer,getCartProducts,getProducts,getCartValue} from '../actions/index';
 import {Link} from 'react-router';
-import RecycleBin from './../images/recyclebin.png';
+import RecycleBin from './../images/minus.jpg';
 import Cart from './../images/cart.jpg';
 
 import ReactDOM from 'react-dom';
