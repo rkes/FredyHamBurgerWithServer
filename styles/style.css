@@ -1,0 +1,25 @@
+.product_card{
+    width: 20rem;
+}
+.product_img{
+    width:180px;
+    height:120px;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.remove_product{
+    width: 10%;
+    height: 25px;
+}
+td{
+    width:10%;
+}
+.cart_card{
+    width: 20rem;
+}
+.delete_product_button{
+    height: 20px;
+}
+.confirm_product_button{
+    height: 20px;
+}
